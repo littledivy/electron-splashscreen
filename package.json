@@ -6,7 +6,7 @@
     "build": "tsc",
     "watch": "tsc -w",
     "lint": "tslint -c tslint.json -p tsconfig.json",
-    "start": "npm run build && electron ./dist/main.js",
+    "start": "npm run build",
     "example": "tsc ./examples/sample.ts && electron ./examples/sample.js"
   },
   "repository": "https://github.com/electron/electron-quick-start-typescript",
