@@ -8,6 +8,8 @@ npm i @divy-work/electron-splashscreen
 
 Elegant splashscreen for your cool electron apps.
 
+![Electron CI](https://github.com/divy-work/electron-splashscreen/workflows/Electron%20CI/badge.svg)
+
 ### Usage
 
 ```js
