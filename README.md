@@ -10,6 +10,7 @@ Elegant splashscreen for your cool electron apps.
 
 ![Electron CI](https://github.com/divy-work/electron-splashscreen/workflows/Electron%20CI/badge.svg)
 ![tslint](https://github.com/divy-work/electron-splashscreen/workflows/tslint/badge.svg)
+[![Known Vulnerabilities](https://snyk.io/test/github/divy-work/electron-splashscreen/badge.svg?targetFile=package.json)](https://snyk.io/test/github/divy-work/electron-splashscreen?targetFile=package.json)
 
 ### Usage
 
